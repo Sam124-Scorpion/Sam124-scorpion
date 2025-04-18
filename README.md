@@ -19,7 +19,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 <img align="right" alt="Coding" height="395" width="480" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="borderRadius:20%" />
-<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sam124-Scorpion&theme=prussian&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
 
