@@ -19,9 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sam124-Scorpion&theme=prussian&hide_border=true)<br>
-  <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="350px" height="183px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="194px" width="494px" align="right"/>
-  <br/>
+
 
 
 
