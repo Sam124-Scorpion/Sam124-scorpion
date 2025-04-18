@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumik</h1>
-<h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color:orange">ROARING</span>from India</h3>
+<h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color:powerblue">ROARING</span>from India</h3>
 <h3 align="center">Async Javascriptor </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam124-scorpion&label=Profile%20views&color=0e75b6&style=flat" alt="sam124-scorpion" /> </p>
