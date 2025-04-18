@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soumik</h1>
-<h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color:powerblue">ROARING</span>from India</h3>
-<h3 align="center">Async Javascriptor </h3>
+<h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color🟡">ROARING</span> from India</h3>
+<h3 align="center">Async Javascriptor and Fulltime Backend Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam124-scorpion&label=Profile%20views&color=0e75b6&style=flat" alt="sam124-scorpion" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam124-scorpion" alt="sam124-scorpion" /></a> </p>
 
-- 🌱 I’m currently learning for AI models for Microservices and Parsing**
+- 🌱 I’m currently learning for AI models for Microservices , and WEB AI solutions and Parsing **
 
 - ⚡ Fun fact **I thik I am madly Virtual creator**
 
