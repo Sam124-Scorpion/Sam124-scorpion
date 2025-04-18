@@ -1,3 +1,5 @@
+[![MasterHead]()]
+
 <h1 align="center">Hi 👋, I'm Soumik</h1>
 <h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color🟡">ROARING</span> from India</h3>
 <h3 align="center">Async Javascriptor and Fulltime Backend Solver</h3>
@@ -9,7 +11,7 @@
 - 🌱 I’m currently learning AI models for Microservices , and WEB AI solutions and Parsing **
 
 - ⚡ Fun fact **I think I am madly Virtual creator**
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="borderRadius:20%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sdking261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sdking261" height="30" width="40" /></a>
