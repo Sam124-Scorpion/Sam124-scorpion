@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](https://github.com/Sam124-Scorpion/Sam124-scorpion/blob/main/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Soumik</h1>
 <h3 align="center">A passionate frontend developer, GUI context developer as well as a problem solver <span style="background-color🟡">ROARING</span> from India</h3>
