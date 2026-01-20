@@ -43,10 +43,6 @@
 
 <div align="center">
 
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sam124-Scorpion&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 
