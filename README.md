@@ -35,8 +35,9 @@
 </div>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam124-Scorpion&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="193px" width="450px"/><br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sam124-Scorpion&theme=prussian&hide_border=true)
 <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="494px" height="194px" /><br>
 
