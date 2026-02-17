@@ -32,6 +32,14 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
+![GitHub Stats Backup](https://github-readme-stats-eight-theta.vercel.app/api?username=Sam124-Scorpion&show_icons=true&hide_border=false&border_color=ff0000&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&cache_seconds=86400)
+
+![Top Languages Backup](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sam124-Scorpion&layout=compact&hide_border=false&border_color=ff0000&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=86400)
+
+</div>
+
 
 <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="494px" height="194px" /><br>
 
