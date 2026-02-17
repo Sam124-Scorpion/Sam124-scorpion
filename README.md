@@ -35,11 +35,6 @@
 </div>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Sam124-Scorpion&theme=prussian&hide_border=true)
-<img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="494px" height="194px" /><br>
 
 
 <div align="center">
