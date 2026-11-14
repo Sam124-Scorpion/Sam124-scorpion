@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Sam124-Scorpion/Sam124-scorpion/blob/main/Banner.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/wave.gif" height="50px" width="50px" />, I'm Soumik</h1>
-<h3 align="center">A Passionate Data Science Enthisiast as well as a Problem Solver Roaring from India</h3>
+<h3 align="center">A Passionate Data Science Enthusiast as well as a Problem Solver Roaring from India</h3>
 <h3 align="center">Async Javascriptor and Fullstack Python Developer</h3>
 
 
